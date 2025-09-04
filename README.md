@@ -24,6 +24,7 @@ Koristeći kameru i duboko učenje, aplikacija prepoznaje geste glave i izvodi o
   Instalacija svih potrebnih paketa:
   ```
   pip install -r requirements.txt
+  ```
 
 ## Pokretanje
  Za pokretanje aplikacije:
