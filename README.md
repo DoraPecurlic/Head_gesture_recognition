@@ -3,7 +3,7 @@ Sustav za upravljanje reprodukcijom videozapisa unutar Youtube playliste koriste
 Koristeći kameru i duboko učenje, aplikacija prepoznaje geste glave i izvodi odgovarajuće akcije.
 
 ### Struktura projekta
-
+```
 │── models/ 
 │ ├── best_val_acc_model.h5  # istrenirani model
 │ └── label_encoder.pkl
@@ -13,7 +13,7 @@ Koristeći kameru i duboko učenje, aplikacija prepoznaje geste glave i izvodi o
 │
 │── requirements.txt 
 │── README.md 
-
+```
 ### Okruženje
  - Python 3.11.
  - Numpy 
