@@ -1,6 +1,6 @@
 numpy==1.26.4
 tensorflow==2.19.0
 mediapipe==0.10.21
-opencv==4.10.0.84
+opencv==4.11.0.86
 pyautogui==0.9.54
 Pillow==10.2.0
