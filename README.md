@@ -2,7 +2,8 @@
 Sustav za upravljanje reprodukcijom videozapisa unutar Youtube playliste koristeći prepoznavanje pokreta glave.
 Koristeći kameru i duboko učenje, aplikacija prepoznaje geste glave i izvodi odgovarajuće akcije.
 
-## Struktura projekta
+### Struktura projekta
+
 │── models/ 
 │ ├── best_val_acc_model.h5  # istrenirani model
 │ └── label_encoder.pkl
@@ -13,20 +14,20 @@ Koristeći kameru i duboko učenje, aplikacija prepoznaje geste glave i izvodi o
 │── requirements.txt 
 │── README.md 
 
-## Okruženje
-  Python 3.11.
-  Numpy 
-  Tensorflow 
-  MediaPipe 
-  OpenCV
-  PyAutoGUI
+### Okruženje
+ - Python 3.11.
+ - Numpy 
+ - Tensorflow
+ -  MediaPipe
+ -  OpenCV
+ -   PyAutoGUI
 
   Instalacija svih potrebnih paketa:
   ```bash
  pip install -r requirements.txt
    ```
 
-## Pokretanje
+### Pokretanje
  Za pokretanje aplikacije:
   ```bash
  python src/head_gesture_control.py
