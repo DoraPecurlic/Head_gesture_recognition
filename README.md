@@ -22,13 +22,15 @@ Koristeći kameru i duboko učenje, aplikacija prepoznaje geste glave i izvodi o
   PyAutoGUI
 
   Instalacija svih potrebnih paketa:
-  ```
-  pip install -r requirements.txt
-  ```
+  ```bash
+ pip install -r requirements.txt
+   ```
 
 ## Pokretanje
  Za pokretanje aplikacije:
+  ```bash
  python src/head_gesture_control.py
+ ```
 
 
   
